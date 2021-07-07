@@ -28,4 +28,5 @@ Wir wollen hier eine kleinen Überblick über die von uns gewählte Art [ForgeOf
     * [Strategie](/fighting/strategy)
     
 
-* nützliche Links
+* [nützliche Links](/links)
+
