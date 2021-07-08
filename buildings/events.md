@@ -1,4 +1,4 @@
 ---
 permalink: /buildings/event
-layout: defaut
+layout: default
 ---

@@ -9,12 +9,11 @@ layout: default
 
 
 * [Födern von Bauwerken](#contribute)
-    * [Zufällig](#c-random)  
-    * [Förderketten](#c-round-robin)
-    * [Mäzenfaktor](#-factor)
-     
-     
+    * [Zufällig](#contribute-random)  
+    * [Förderketten](#contribute-round-robin)
+    * [Mäzenfaktor](#contribute-factor)
 
+    
 ## Fördern lassen von Bauwerken {#contribute}
 
 
@@ -23,14 +22,14 @@ layout: default
 
 
 
-#### Zufällig {#c-random}
+#### Zufällig {#contribute-random}
 
 
 
-#### Förderketten {#c-round-robin}
+#### Förderketten {#contribute-round-robin}
 
 
 
-#### Mäzenbasierte Förderung {#c-factor} 
+#### Mäzenbasierte Förderung {#contribute-factor} 
 
 

@@ -15,3 +15,9 @@ layout: default
 
 
 
+###  Tutorial
+
+*  [emos](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+*  [emies](https://gist.github.com/rxaviers/7360908)
+
+*  [Github Flavored Markdown](https://github.github.com/gfm/)
