@@ -26,6 +26,7 @@ Wir wollen hier eine kleinen Überblick über die von uns gewählte Art [ForgeOf
     * [Truppen](/fighting/trups)
     * [Strategie](/fighting/strategy)
     
-
+* [Abküzungen](/abbreviation)
 * [nützliche Links](/links)
+
 

@@ -3,6 +3,10 @@ permalink: /abbreviation
 layout: default
 ---
 
+## Abkürzungen
+
+
+### Liste
 
 * [BP](#bp)
 * [FP](#fp)
@@ -11,14 +15,13 @@ layout: default
 
 
 
+### Erklärungen
 
+###### BP {#bp} 
+ist eine Blaupause
 
-###### Blaupause {#bp} 
-ist 
+###### FP {#fp} 
+ist ein Forgepunkt
 
-
-###### Forgepunkt {#fp} 
-ist 
-
-######  Legendäres Bauwerk {#lb}
-ist
+######  LB {#lb}
+ist ein [Legendäres Bauwerk](/buildings/legendary)

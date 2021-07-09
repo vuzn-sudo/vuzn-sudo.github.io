@@ -12,6 +12,7 @@ layout: default
     * [Forge Punkte](#fp) 
     * [Güter](#goods) 
     * [Platz](#space) 
+    * [Blaupausen](#bp)
 * [Födern von Bauwerken](#contribute) 
     * [Zufällig](#contribute-random)  
     * [Förderketten](#contribute-round-robin)
