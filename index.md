@@ -5,7 +5,6 @@ layout: default
 
 ## Hallo auf unserer Seite   :rainbow:
 
-
 ### Zweck
 
 Wir wollen hier eine kleinen Überblick über die von uns gewählte Art [ForgeOfEmpire](https://forgeofempires.com/) zu spielen geben.
