@@ -24,6 +24,11 @@ Wir wollen hier eine kleinen Überblick über die von uns gewählte Art [ForgeOf
     * [Kämpfe](/fighting/fights)
     * [Truppen](/fighting/trups)
     * [Strategie](/fighting/strategy)
+* Resourcen
+    * [Gold](/resources#gold)
+    * [Vorräte](/resources#tools)
+    * [ForgePunkte](/resources#forge-points)
+    * [Güter](/resources#goods)
     
 * [Abküzungen](/abbreviation)
 * [nützliche Links](/links)

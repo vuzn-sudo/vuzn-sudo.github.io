@@ -7,12 +7,12 @@ layout: default
 
 Legendäre Gebäude bringen Punkte, sind zumeist schön anzusehen und stehen in nahezu allen Städten.
 Kaum kommt ein Neues raus, gibt wollen alle es unbeding bauen.
-In den Zeitaltern bsi zur Gegenwart dienen häufig historische Vorbilder, in nden Zeialtern danach, ist dies schwer möglich, da auch die durchaus creativen Entwickler von [Inno](https://www.innogames.com/de/) 
-wohl keine Glasskugel besitzen welche Ihnen die Zukunft verrät.
-Es gibt zwar ab und an nspielungen an die Sorgen und Probleme welche wir dieser Tage alle bemerken können, alledings sind die Anspielungen so subtil, daß es den Spielspass keinesfalls stört.
+In den Zeitaltern bis zur Gegenwart dienen häufig historische Vorbilder, in nden Zeialtern danach, ist dies schwer möglich, da auch die durchaus creativen Entwickler von [Inno](https://www.innogames.com/de/) 
+wohl keine Glasskugel besitzen, welche Ihnen die Zukunft verrät.
+Es gibt zwar ab und an Anspielungen an die Sorgen und Probleme welche wir dieser Tage alle bemerken können, alledings sind die Anspielungen so subtil, daß es den Spielspass keinesfalls stört.
 Betrachten wir also das für und wieder von Legendären Bauwerken nach folgenden Gesichtspunkten: 
 
-* [Nutzen Legendärer Gebäude](#benetfits)
+* [Nutzen Legendärer Gebäude](#benetfits-costs)
     * [Patz sparen](#save-space)
     * [Vorteile](#advantages)
 * [Vorrausetzungen für Legendäre Bauwerke](#requirements) 
@@ -26,16 +26,23 @@ Betrachten wir also das für und wieder von Legendären Bauwerken nach folgenden
     * [Mäzenfaktor](#contribute-factor) 
 * [Beschaffung von Blaupausen](#bp) 
 
+## Nutzen und Kosten Legendärer Gebäude {#benetfits-costs}
 
-## Nutzen Legendärer Gebäude {#benetfits}
+[LB](/abbreviation#lb)s kann man nicht einpacken. Irgendwie logisch aber auch sehr schade.
+Jedes LB muss also stehen bleiben, oder die [Güter](#goods) und [FP](/abbreviation#fp) sind verlohren.
+Je nach Grösse und Art des LB kann dies mehr oder weniger ärgerlich sein.
+Folgendes ist also abzuwägen bevor ein LB gestellt wird:
+
+* wieviel Platz habe ich zur Verfügung
+* wie hoch kann ich das LB auf absehbare Zeit leveln
+* wie hoch kann ich das LB reaistisch überhaupt leveln (seltene [BP](/abbreviation#bp) ) 
+* welche Kosten sind mit dem leveln verbunden
 
 Ausser der oben genannten äthestischen Vorteile und der [unten](#contribute) näher erläuterten 
 Kommunikation, bieten diese Bauwerke auch ganz prakischen Nutzen.
-Unntersuchen wir diesen also nach folgenden Gesichtspunkten:
-
+Untersuchen wir diesen also nach folgenden Gesichtspunkten:
 
 #### Platz sparen {#save-space}
-
 
 
 
