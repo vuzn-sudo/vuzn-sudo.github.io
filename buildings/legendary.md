@@ -23,7 +23,9 @@ Betrachten wir also das für und wieder von Legendären Bauwerken nach folgenden
 * [Födern von Bauwerken](#contribute) 
     * [Zufällig](#contribute-random)  
     * [Förderketten](#contribute-round-robin)
-    * [Mäzenfaktor](#contribute-factor) 
+    * [Mäzenfaktor](#contribute-factor)
+    * [Kritsche Stufen](#critical-levels)
+    * [mögliche Kosten bei übersaven Stufen](#potential-costs)
 * [Beschaffung von Blaupausen](#bp) 
 
 ## Nutzen und Kosten Legendärer Gebäude {#benetfits-costs}
@@ -33,16 +35,18 @@ Jedes LB muss also stehen bleiben, oder die [Güter](#goods) und [FP](/abbreviat
 Je nach Grösse und Art des LB kann dies mehr oder weniger ärgerlich sein.
 Folgendes ist also abzuwägen bevor ein LB gestellt wird:
 
-* wieviel Platz habe ich zur Verfügung
-* wie hoch kann ich das LB auf absehbare Zeit leveln
-* wie hoch kann ich das LB reaistisch überhaupt leveln (seltene [BP](/abbreviation#bp) ) 
-* welche Kosten sind mit dem leveln verbunden
+- wieviel Platz habe ich zur Verfügung
+- wie hoch kann ich das LB auf absehbare Zeit leveln
+- wie hoch kann ich das LB reaistisch überhaupt leveln (seltene [BP](/abbreviation#bp) ) 
+- welche Kosten sind mit dem leveln in absehbarer Zeit verbunden
+- in welchem Verhältniss stehen die Kosten und der Nutzen, welchen das LB in absehbarer Zeit bringt 
 
-Ausser der oben genannten äthestischen Vorteile und der [unten](#contribute) näher erläuterten 
+Ausser der oben genannten ästhetischen Vorteile und der [unten](#contribute) näher erläuterten. 
 Kommunikation, bieten diese Bauwerke auch ganz prakischen Nutzen.
 Untersuchen wir diesen also nach folgenden Gesichtspunkten:
 
 #### Platz sparen {#save-space}
+
 
 
 
@@ -90,5 +94,10 @@ Klar, ein [LB](/abbreviation#lb) braucht [FP](/abbreviation#fp)
 
 
 #### Mäzenbasierte Förderung {#contribute-factor} 
+
+
+## Kritische Stufen der Legendären Bauwerke {#critical-levels}
+
+#### Liste der potentiellen Kosten je Bauwerk und Stufe {#potential-costs}
 
 
