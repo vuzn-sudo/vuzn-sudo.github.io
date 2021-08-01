@@ -3,7 +3,7 @@ permalink: /index.html
 layout: default
 ---
 
-## Hallo auf unserer Seite   :rainbow:
+## Hallo auf unserer Seite   
 
 ### Zweck
 
