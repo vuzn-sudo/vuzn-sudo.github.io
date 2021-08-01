@@ -33,12 +33,13 @@ Um diese zu pushen gibt es mehrere kleine mittlere und grosse Gebäude hier un n
 | Schachmatt Platz | 3 x 3 | 7 / 0 | 0,77 / 0|
 | Schildwacht 1 | 1 x 1 |  0 / 2 | 0 / 2 |
 | Schildwacht 2  | 1 X 1 |  0 / 4  |  0 / 4 |
+| Antikes Gesicht 2 | 2 x 2 | 3 / 0 | 0.75 / 0 |  
 
 ### Verteidigung {#prod-defense}
 
 | Name des Gebäude |  Fläche (Grösse)| Kampfpunkte (Angriff/Verteidigung) | Kampfpunkte pro Feld (Angriff/Verteidigung)   |
 | Kloster | 3 x 3 | 0 / 20 | 0 / 2,22 |
-| Karusell | 3 x 3 | 0 / 5 | 0 /  0, 55|
+| Karusell | 3 x 3 | 0 / 5 | 0 /  0, 55 |
 
 ### Medallien {#prod-medals}
 
