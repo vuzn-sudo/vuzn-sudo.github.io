@@ -97,6 +97,8 @@ Klar, ein [LB](/abbreviation#lb) braucht [FP](/abbreviation#fp)
 #### Mäzenbasierte Förderung {#contribute-factor} 
 
 
+
+
 ## Kritische Stufen der Legendären Bauwerke {#critical-levels}
 
  
@@ -105,7 +107,7 @@ Klar, ein [LB](/abbreviation#lb) braucht [FP](/abbreviation#fp)
 
 #### Erklärung 
 
-Das Roma-Level-System hat zum Ziel, dass kein [Sniper](#sniper) unter dem gewünscheten [Faktor] (#contribute-factor) 
+Das Roma-Level-System hat zum Ziel, dass kein [Sniper](#sniper) unter dem gewünscheten [Faktor](#contribute-factor) 
 in das LB investieten kann. Ein Verlust versprochender Plätze wirdvdabei in Kauf genommen, entstandene FP-Verluste werden - wie bei der mäzenbasierten Förderung üblich - erstattet.
 Es ist für [Sniper](#sniper) auch zu kostespielig die Arche zu leveln, um dann p1 zu snipen. Das ist zwar grob unsportlich, kommt aber leider vor. 
 
