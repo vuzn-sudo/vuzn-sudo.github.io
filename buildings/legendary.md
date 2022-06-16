@@ -26,7 +26,7 @@ Betrachten wir also das für und wieder von Legendären Bauwerken nach folgenden
     * [Mäzenfaktor](#contribute-factor)
     * [Kritsche Stufen](#critical-levels)
     * [Das Roma System](#roma-level-system)
-    * [Das P-One-System] (#p-one-level-system)
+    * [Das P-One-System](#p-one-level-system)
     * [mögliche Kosten bei übersaven Stufen](#potential-costs)
 * [Beschaffung von Blaupausen](#bp) 
 
